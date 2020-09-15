@@ -1,3 +1,4 @@
 grep -E 'pattern|pattern2' file
+grep -E 'pattern1|p' file
 grep pattern file
 grep pattern <file
