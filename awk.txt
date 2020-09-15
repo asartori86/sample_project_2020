@@ -1,4 +1,5 @@
 awk 'condition {action}' file
 awk 'condition {action}' <file
 awk 'END {print NR}' file
+awk
 
