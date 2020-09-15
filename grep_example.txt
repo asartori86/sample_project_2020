@@ -1,2 +1,3 @@
+grep -E 'pattern|p' file
 grep pattern file
 grep pattern <file
